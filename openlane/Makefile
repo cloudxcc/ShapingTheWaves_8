@@ -26,6 +26,7 @@ openlane_cmd = \
 	-design $$(realpath ./$*) \
 	-save_path $$(realpath ..) \
 	-save \
+	-no_drc \
 	-tag $(OPENLANE_RUN_TAG) \
 	-overwrite \
 	-ignore_mismatches"
