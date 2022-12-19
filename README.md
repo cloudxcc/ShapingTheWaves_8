@@ -1,5 +1,5 @@
 # OpenLane / Skywater130 project. 
 
-Testrun
+RISC-V based MiniSoC supporting Wave-Pipelined Dynamic Interleaved-Multi-Threading 
 
 
