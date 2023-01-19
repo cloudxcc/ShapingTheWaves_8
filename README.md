@@ -21,3 +21,7 @@ SkyWater 0,18µm, Efabless Shuttle 8
 OpenSource tools: Caravel\OpenLane
 
 Sponsored by Efabless and Google !!!
+
+You can find the FPGA version here (w/o wave-pipelining, but using registers instead): https://github.com/cloudxcc/Arduissimo
+
+
