@@ -16,7 +16,7 @@ Timer with 128 programmable events
 
 32 GPIOs with programmable trigger-units for SW-defined protocols
 
-SkyWater 0,18µm, Efabless Shuttle 8
+SkyWater 0,13µm, Efabless Shuttle 8
 
 OpenSource tools: Caravel\OpenLane
 
